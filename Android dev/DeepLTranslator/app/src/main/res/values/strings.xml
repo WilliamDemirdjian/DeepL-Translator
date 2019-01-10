@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeepL</string>
+    <string name="info">This application is not the official DeepL application.
+        \nThis application simply displays the mobile version of deepl.com in its free version.
+        \nAll rights reserved.
+        \n
+        \nFor more information, visit https://www.deepl.com/pro-license.html
+        \n
+        \nYou need an internet connection to use the application</string>
+     <string name="okButton">OK</string>
+</resources>
