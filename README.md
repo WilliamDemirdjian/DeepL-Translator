@@ -1,6 +1,6 @@
 # DeepL Translator
 This application simply displays the mobile version of <a href="https://www.deepl.com/translator">DeepL</a> in its free version.
-<br>The application is just a web viewer, the translation service is provided by DeepL, the best machine translation service! All rights reserved.
+<br>The application is just a web viewer, the translation service is provided by DeepL, the best translation service! All rights reserved.
 <br><strong>Currently supported languages are English, German, French, Spanish, Portuguese, Italian, Dutch, Polish, and Russian.</strong>
 
 ## About DeepL Translator
